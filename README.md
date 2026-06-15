@@ -16,11 +16,7 @@
 
 ## Stats
 
-<div align="center">
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=GhostItachi&show_icons=true&theme=github_dark&hide_border=true&bg_color=050505&title_color=ffffff&text_color=b3b3b3&icon_color=ffffff"
-/>
-
-</div>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GhostItachi&show_icons=true&theme=github_dark&hide_border=true&bg_color=050505" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhostItachi&layout=compact&theme=github_dark&hide_border=true&bg_color=050505" />
+</p>
