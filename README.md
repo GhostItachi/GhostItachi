@@ -1,16 +1,88 @@
-## Hi there 👋
+# Ghost
 
-<!--
-**GhostItachi/GhostItachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+```text
+██████   ██   ██   ██████   ███████ ████████
+██       ██   ██  ██    ██  ██         ██
+██  ███  ███████  ██    ██  ███████    ██
+██   ██  ██   ██  ██    ██       ██    ██
+██████   ██   ██   ██████   ███████    ██
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Crafting software in the shadows.**
+
+Full Stack Developer focused on creating elegant applications, premium user experiences, and highly customized development environments.
+
+</div>
+
+---
+
+## About Me
+
+* 💻 Full Stack Developer
+* ⚡ TypeScript & JavaScript Enthusiast
+* 🎨 UI/UX and Interface Customization
+* 🌙 OLED Dark Design Advocate
+* 🚀 Building personal projects and open-source tools
+
+---
+
+## Tech Stack
+
+```txt
+Frontend
+├── TypeScript
+├── JavaScript
+├── HTML5
+└── CSS3
+
+Backend
+├── Node.js
+└── Express
+
+Database
+├── MySQL
+└── PostgreSQL
+
+Tools
+├── Git
+├── GitHub
+├── VS Code
+└── Linux
+```
+
+---
+
+## Featured Projects
+
+### WeatherApp
+
+A modern weather application focused on simplicity, performance, and clean design.
+
+---
+
+## Current Focus
+
+```txt
+▰▰▰▰▰▰▱▱▱▱  TypeScript
+▰▰▰▰▰▰▰▱▱▱  Frontend Development
+▰▰▰▰▰▰▱▱▱▱  Backend Development
+▰▰▰▰▰▱▱▱▱▱  Open Source
+```
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GhostItachi&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+<div align="center">
+
+Building beautiful software, one commit at a time.
+
+</div>
