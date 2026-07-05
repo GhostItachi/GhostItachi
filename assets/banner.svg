@@ -208,5 +208,122 @@
     <line x1="102" y1="170" x2="102" y2="188" stroke="#E5E5E5"/>
 
 </g>
+
+<!-- ========================= -->
+<!-- PANEL DERECHO -->
+<!-- ========================= -->
+
+<!-- Tech Stack -->
+<rect x="585" y="55" width="645" height="70" rx="6"
+      fill="#101010" stroke="#333"/>
+
+<text x="605" y="77"
+      fill="#9a9a9a"
+      font-size="12"
+      font-family="monospace">
+TECH STACK
+</text>
+
+<!-- Iconos temporales -->
+<g fill="white" font-family="Segoe UI" font-size="16">
+
+<rect x="620" y="90" width="32" height="22" rx="4" fill="#222"/>
+<text x="627" y="106">TS</text>
+
+<rect x="690" y="90" width="32" height="22" rx="4" fill="#222"/>
+<text x="698" y="106">JS</text>
+
+<rect x="760" y="90" width="32" height="22" rx="4" fill="#222"/>
+<text x="766" y="106">N</text>
+
+<rect x="830" y="90" width="32" height="22" rx="4" fill="#222"/>
+<text x="835" y="106">R</text>
+
+<rect x="900" y="90" width="32" height="22" rx="4" fill="#222"/>
+<text x="907" y="106">G</text>
+
+</g>
+
+<!-- GitHub Stats -->
+<rect x="585" y="145" width="390" height="140" rx="6"
+      fill="#101010" stroke="#333"/>
+
+<text x="605" y="167"
+      fill="#9a9a9a"
+      font-size="12"
+      font-family="monospace">
+GITHUB STATS
+</text>
+
+<text x="610" y="200" fill="white" font-size="16">Repositories</text>
+<text x="900" y="200" fill="white" text-anchor="end">--</text>
+
+<text x="610" y="230" fill="white" font-size="16">Followers</text>
+<text x="900" y="230" fill="white" text-anchor="end">--</text>
+
+<text x="610" y="260" fill="white" font-size="16">Stars</text>
+<text x="900" y="260" fill="white" text-anchor="end">--</text>
+
+<!-- Círculo -->
+<circle
+    cx="925"
+    cy="220"
+    r="42"
+    fill="none"
+    stroke="#2a2a2a"
+    stroke-width="8"/>
+
+<circle
+    cx="925"
+    cy="220"
+    r="42"
+    fill="none"
+    stroke="white"
+    stroke-width="8"
+    stroke-linecap="round"
+    stroke-dasharray="170 264"/>
+
+<text
+    x="925"
+    y="225"
+    text-anchor="middle"
+    fill="white"
+    font-size="22">
+52
+</text>
+
+<!-- Lenguajes -->
+<rect
+    x="995"
+    y="145"
+    width="235"
+    height="140"
+    rx="6"
+    fill="#101010"
+    stroke="#333"/>
+
+<text
+    x="1015"
+    y="167"
+    fill="#9a9a9a"
+    font-size="12"
+    font-family="monospace">
+LANGUAGES
+</text>
+
+<!-- Barra 1 -->
+<text x="1015" y="200" fill="white" font-size="13">TypeScript</text>
+<rect x="1100" y="191" width="100" height="8" fill="#222"/>
+<rect x="1100" y="191" width="82" height="8" fill="white"/>
+
+<!-- Barra 2 -->
+<text x="1015" y="225" fill="white" font-size="13">JavaScript</text>
+<rect x="1100" y="216" width="100" height="8" fill="#222"/>
+<rect x="1100" y="216" width="55" height="8" fill="white"/>
+
+<!-- Barra 3 -->
+<text x="1015" y="250" fill="white" font-size="13">HTML/CSS</text>
+<rect x="1100" y="241" width="100" height="8" fill="#222"/>
+<rect x="1100" y="241" width="35" height="8" fill="white"/>
     
 </svg>
