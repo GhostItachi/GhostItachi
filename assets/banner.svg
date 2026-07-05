@@ -280,22 +280,36 @@ TECH STACK
     {{stars}}
 </text>
 
-<!-- Commits -->
-<text x="610" y="290" fill="white" font-size="16">
-    Commits
-</text>
-
 <text x="900" y="290" fill="white" text-anchor="end">
     {{commits}}
 </text>
 
-<!-- Círculo central -->
+<!-- Círculo de progreso -->
+<circle
+    cx="925"
+    cy="220"
+    r="42"
+    fill="none"
+    stroke="#2a2a2a"
+    stroke-width="8"/>
+
+<circle
+    cx="925"
+    cy="220"
+    r="42"
+    fill="none"
+    stroke="white"
+    stroke-width="8"
+    stroke-linecap="round"
+    stroke-dasharray="{{progress}} 264"/>
+
 <text
     x="925"
-    y="225"
+    y="227"
     text-anchor="middle"
     fill="white"
-    font-size="22">
+    font-size="24"
+    font-weight="bold">
     {{level}}
 </text>
 
