@@ -81,4 +81,132 @@
         fill="#8cff8c"
         filter="url(#glow)"/>
 
+<!-- ========================= -->
+<!-- PANEL IZQUIERDO -->
+<!-- ========================= -->
+
+<!-- Nombre -->
+<text
+    x="55"
+    y="95"
+    fill="white"
+    font-size="64"
+    font-weight="bold"
+    font-family="Segoe UI, Arial, sans-serif"
+    filter="url(#glow)">
+    Gh0$t_
+</text>
+
+<!-- Subtítulo -->
+<text
+    x="58"
+    y="122"
+    fill="#BDBDBD"
+    font-size="14"
+    letter-spacing="3"
+    font-family="monospace">
+    CRAFTING SOFTWARE IN THE SHADOWS
+</text>
+
+<!-- Información -->
+<text x="58" y="170" fill="#777" font-size="12" font-family="monospace">ROLE</text>
+<text x="58" y="192" fill="white" font-size="18">Full Stack Developer</text>
+
+<text x="58" y="235" fill="#777" font-size="12" font-family="monospace">FOCUS</text>
+<text x="58" y="257" fill="white" font-size="16">
+    Building elegant software
+</text>
+<text x="58" y="278" fill="white" font-size="16">
+    &amp; Linux customization
+</text>
+
+<!-- Estado -->
+<rect
+    x="50"
+    y="315"
+    width="210"
+    height="45"
+    rx="6"
+    fill="#111"
+    stroke="#444"/>
+
+<circle
+    cx="68"
+    cy="337"
+    r="5"
+    fill="#7CFF7C"
+    filter="url(#glow)">
+    <animate attributeName="opacity"
+             values="1;.2;1"
+             dur="2s"
+             repeatCount="indefinite"/>
+</circle>
+
+<text
+    x="82"
+    y="342"
+    fill="white"
+    font-size="14"
+    font-family="monospace">
+    ONLINE
+</text>
+
+<!-- ========================= -->
+<!-- Calavera minimalista -->
+<!-- ========================= -->
+
+<g transform="translate(305 95) scale(1.05)">
+
+    <!-- Cráneo -->
+    <ellipse
+        cx="90"
+        cy="95"
+        rx="58"
+        ry="70"
+        fill="none"
+        stroke="#E5E5E5"
+        stroke-width="2"/>
+
+    <!-- Mandíbula -->
+    <path
+        d="M55 145
+           Q90 180 125 145
+           L118 188
+           Q90 206 62 188 Z"
+        fill="none"
+        stroke="#E5E5E5"
+        stroke-width="2"/>
+
+    <!-- Ojos -->
+    <ellipse
+        cx="70"
+        cy="90"
+        rx="11"
+        ry="16"
+        fill="#E5E5E5"/>
+
+    <ellipse
+        cx="110"
+        cy="90"
+        rx="11"
+        ry="16"
+        fill="#E5E5E5"/>
+
+    <!-- Nariz -->
+    <path
+        d="M90 105
+           L80 123
+           L100 123 Z"
+        fill="#E5E5E5"/>
+
+    <!-- Dientes -->
+    <line x1="70" y1="170" x2="110" y2="170" stroke="#E5E5E5"/>
+
+    <line x1="78" y1="170" x2="78" y2="188" stroke="#E5E5E5"/>
+    <line x1="86" y1="170" x2="86" y2="188" stroke="#E5E5E5"/>
+    <line x1="94" y1="170" x2="94" y2="188" stroke="#E5E5E5"/>
+    <line x1="102" y1="170" x2="102" y2="188" stroke="#E5E5E5"/>
+
+</g>
+    
 </svg>
