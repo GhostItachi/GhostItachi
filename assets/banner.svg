@@ -6,6 +6,20 @@
 
     <defs>
 
+        <!-- Grid -->
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M40 0H0V40"
+          fill="none"
+          stroke="#181818"
+          stroke-width="1"/>
+</pattern>
+
+<linearGradient id="lineGlow">
+    <stop offset="0%" stop-color="#ffffff00"/>
+    <stop offset="50%" stop-color="#ffffff"/>
+    <stop offset="100%" stop-color="#ffffff00"/>
+</linearGradient>
+
         <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
             <stop offset="0%" stop-color="#050505"/>
             <stop offset="100%" stop-color="#111111"/>
@@ -23,6 +37,52 @@
 
     <!-- Fondo -->
     <rect width="1280" height="420" fill="url(#bg)"/>
+
+    <!-- Grid de fondo -->
+<rect width="1280"
+      height="420"
+      fill="url(#grid)"
+      opacity=".55"/>
+
+    <!-- Líneas HUD -->
+
+<line x1="35" y1="135" x2="515" y2="135"
+      stroke="url(#lineGlow)"
+      stroke-width="1"/>
+
+<line x1="585" y1="135" x2="1230" y2="135"
+      stroke="url(#lineGlow)"
+      stroke-width="1"/>
+
+<line x1="585" y1="300" x2="1230" y2="300"
+      stroke="#2d2d2d"/>
+
+<line x1="540" y1="40"
+      x2="540"
+      y2="380"
+      stroke="#303030"/>
+
+    <!-- Esquinas -->
+
+<path d="M20 20 H60 M20 20 V60"
+      stroke="white"
+      stroke-width="2"
+      fill="none"/>
+
+<path d="M1260 20 H1220 M1260 20 V60"
+      stroke="white"
+      stroke-width="2"
+      fill="none"/>
+
+<path d="M20 400 H60 M20 400 V360"
+      stroke="white"
+      stroke-width="2"
+      fill="none"/>
+
+<path d="M1260 400 H1220 M1260 400 V360"
+      stroke="white"
+      stroke-width="2"
+      fill="none"/>
 
     <!-- Marco exterior -->
     <rect
