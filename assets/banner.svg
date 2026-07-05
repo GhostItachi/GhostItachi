@@ -250,11 +250,21 @@ TECH STACK
 <rect x="585" y="145" width="390" height="140" rx="6"
       fill="#101010" stroke="#333"/>
 
-<text x="605" y="167"
-      fill="#9a9a9a"
-      font-size="12"
-      font-family="monospace">
-GITHUB STATS
+<text
+    x="605"
+    y="167"
+    fill="#9a9a9a"
+    font-size="12"
+    font-family="monospace">
+    GITHUB STATS
+</text>
+
+<text x="610" y="200" fill="white" font-size="16">Repositories</text>
+<text x="610" y="230" fill="white" font-size="16">Followers</text>
+<text x="610" y="260" fill="white" font-size="16">Stars</text>
+<text x="610" y="290" fill="white" font-size="16">Commits</text>
+
+    
 <!-- Repositories -->
 <text x="900" y="200" fill="white" text-anchor="end">
     {{repos}}
@@ -289,6 +299,18 @@ GITHUB STATS
     {{level}}
 </text>
 
+<rect x="995" y="145" width="235" height="140" rx="6"
+      fill="#101010" stroke="#333"/>
+
+<text
+    x="1015"
+    y="167"
+    fill="#9a9a9a"
+    font-size="12"
+    font-family="monospace">
+    LANGUAGES
+</text>
+    
 <text x="1015" y="200" fill="white" font-size="13">
     {{lang1}}
 </text>
@@ -309,20 +331,5 @@ GITHUB STATS
 
 <rect x="1100" y="241" width="100" height="8" fill="#222"/>
 <rect x="1100" y="241" width="{{lang3_width}}" height="8" fill="white"/>
-
-<!-- Barra 1 -->
-<text x="1015" y="200" fill="white" font-size="13">TypeScript</text>
-<rect x="1100" y="191" width="100" height="8" fill="#222"/>
-<rect x="1100" y="191" width="82" height="8" fill="white"/>
-
-<!-- Barra 2 -->
-<text x="1015" y="225" fill="white" font-size="13">JavaScript</text>
-<rect x="1100" y="216" width="100" height="8" fill="#222"/>
-<rect x="1100" y="216" width="55" height="8" fill="white"/>
-
-<!-- Barra 3 -->
-<text x="1015" y="250" fill="white" font-size="13">HTML/CSS</text>
-<rect x="1100" y="241" width="100" height="8" fill="#222"/>
-<rect x="1100" y="241" width="35" height="8" fill="white"/>
     
 </svg>
