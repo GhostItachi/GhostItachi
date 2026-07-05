@@ -230,24 +230,24 @@ TECH STACK
 <g fill="white" font-family="Segoe UI" font-size="16">
 
 <rect x="620" y="90" width="32" height="22" rx="4" fill="#222"/>
-<text x="627" y="106">TS</text>
+<text x="627" y="106">TypeScript</text>
 
 <rect x="690" y="90" width="32" height="22" rx="4" fill="#222"/>
-<text x="698" y="106">JS</text>
+<text x="698" y="106">Node.js</text>
 
 <rect x="760" y="90" width="32" height="22" rx="4" fill="#222"/>
-<text x="766" y="106">N</text>
+<text x="766" y="106">React</text>
 
 <rect x="830" y="90" width="32" height="22" rx="4" fill="#222"/>
-<text x="835" y="106">R</text>
+<text x="835" y="106">Linux</text>
 
 <rect x="900" y="90" width="32" height="22" rx="4" fill="#222"/>
-<text x="907" y="106">G</text>
+<text x="907" y="106">GitG</text>
 
 </g>
 
 <!-- GitHub Stats -->
-<rect x="585" y="145" width="390" height="140" rx="6"
+<rect x="585" y="145" width="430" height="140" rx="6"
       fill="#101010" stroke="#333"/>
 
 <text
@@ -286,7 +286,7 @@ TECH STACK
 
 <!-- Círculo de progreso -->
 <circle
-    cx="925"
+    cx="950"
     cy="220"
     r="42"
     fill="none"
@@ -294,7 +294,7 @@ TECH STACK
     stroke-width="8"/>
 
 <circle
-    cx="925"
+    cx="950"
     cy="220"
     r="42"
     fill="none"
@@ -313,7 +313,7 @@ TECH STACK
     {{level}}
 </text>
 
-<rect x="995" y="145" width="235" height="140" rx="6"
+<rect x="1025" y="145" width="235" height="140" rx="6"
       fill="#101010" stroke="#333"/>
 
 <text
